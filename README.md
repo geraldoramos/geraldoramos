@@ -6,13 +6,8 @@ Gigahost survived for almost a decade before it was acquired by a bigger ISP in 
 
 In 2012, I moved to New York and eventually started another experiment called [HackHands](https://techcrunch.com/2014/02/17/though-its-network-of-mentors-hackhands-offers-live-help-for-new-programmers/), which shortly became a company and after a year it was acquired by Pluralsight. For that matter, I've moved to Utah in 2015, and kept working with Pluralsight until 2020.
 
-Today, I'm back to my entrepreneurial journey and 🔭 I’m currently working on [moises.ai](https://moises.ai). I'm also partner at [Fuze](fuze.cc), a development shop based Brazil, focused on native mobile development.
+Today, I'm back to my entrepreneurial journey and I’m currently working on [moises.ai](https://moises.ai). I'm also partner at [Fuze](https://fuze.cc), a development shop based Brazil, focused on native mobile development.
 
-
-I consider myself a generalist and I'm fairly proficient on these fields:
-- Development (mostly Javascript/Typescript)
-- Product development
-- Business / Entrepreneurship
 
 
 
